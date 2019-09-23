@@ -6,7 +6,7 @@ permalink: /past/
 
 ### Cluster 2018
 
-<img src="/img/belfast.jpg" style="float:right;width:201px;height:101px;" />
+<img src="{{ site.baseurl }}/img/belfast.jpg" style="float:right;width:201px;height:101px;" />
 Location: **Belfast**, UK <br>
 General Chair:
 * **Dimitrios Nikolopoulos**, Queen’s University, Belfast, UK
@@ -19,7 +19,7 @@ Program Chair: **Paul Kelly**, Imperial College London, UK<br>
 
 ### Cluster 2017
 
-<img src="/img/hawaii.jpg" style="float:right;width:168px;height:112px;" />
+<img src="{{ site.baseurl }}/img/hawaii.jpg" style="float:right;width:168px;height:112px;" />
 Location: **Hawaii**, USA <br>
 General Chair:
 * **Naoya Maruyama**, Riken, Japan
@@ -43,7 +43,7 @@ General Chair:
 
 ### Cluster 2015
 
-<img src="/img/cluster_15.jpg" style="float:right;width:349px;height:55px;" />
+<img src="{{ site.baseurl }}/img/cluster_15.jpg" style="float:right;width:349px;height:55px;" />
 Location: **Chicago**, IL, USA <br>
 General Chair:
 * **Pavan Balaji**, Argonne National Laboratory, IL, USA
@@ -81,7 +81,7 @@ Technical Program
 
 ### Cluster 2012
 
-<img src="/img/cluster_12.jpg" style="float:right;width:390px;height:62px;" />
+<img src="{{ site.baseurl }}/img/cluster_12.jpg" style="float:right;width:390px;height:62px;" />
 Location: **Beijing**, China <br>
 General Chair: **Guojie Li**, Institute of Computing Tech, Chinese Academy of Sciences, China<br>
 Technical Program Chairs:
@@ -95,7 +95,7 @@ Technical Program Chairs:
 
 ### Cluster 2011
 
-<img src="/img/cluster_11.jpg" style="float:right;width:316px;height:79px;" />
+<img src="{{ site.baseurl }}/img/cluster_11.jpg" style="float:right;width:316px;height:79px;" />
 Location: **Austin**, TX, USA <br>
 General Chair: **Jay Boisseau**, Texas Advanced Computing Center, USA<br>
 Technical Program Chairs:
@@ -106,7 +106,7 @@ Technical Program Chairs:
 
 ### Cluster 2010
 
-<img src="/img/cluster_10.jpg" style="float:right;width:381px;height:46px;" />
+<img src="{{ site.baseurl }}/img/cluster_10.jpg" style="float:right;width:381px;height:46px;" />
 Location: **Heraklion**, Greece <br>
 General Chair: **Dimitrios Nikolopoulos**, FORTH-ICS<br>
 Technical Program Chairs:
@@ -128,7 +128,7 @@ Technical Program Chair: **Thomas Sterling**, Louisiana State University<br>
 
 ### Cluster 2008
 
-<img src="/img/cluster_08.jpg" style="float:right;width:242px;height:75px;" />
+<img src="{{ site.baseurl }}/img/cluster_08.jpg" style="float:right;width:242px;height:75px;" />
 Location: **Tsukuba**, Japan <br>
 General Chair: **Yutaka Ishikawa**, University of Tokyo, Japan<br>
 Technical Program Chair: **Mitsuhisa Sato**, University of Tokyo, Japan<br>
@@ -166,7 +166,7 @@ Technical Program Chair: **Thomas Stricker**, Google Engineering<br>
 
 ### Cluster 2004
 
-<img src="/img/cluster_04.jpg" style="float:right;width:342px;height:71px;" />
+<img src="{{ site.baseurl }}/img/cluster_04.jpg" style="float:right;width:342px;height:71px;" />
 Location: **San Diego**, CA, USA <br>
 General Chairs:
 * **Henri Casanova**, SDSC, USA
@@ -215,7 +215,7 @@ Technical Program Chair: **Thomas Sterling**, CalTech, USA<br>
 
 ### Cluster 2000
 
-<img src="/img/cluster_00.jpg" style="float:right;width:300px;height:48px;" />
+<img src="{{ site.baseurl }}/img/cluster_00.jpg" style="float:right;width:300px;height:48px;" />
 Location: **Chemnitz**, Germany <br>
 General Chair: **Wolfgang Rehm**, TU-Chemnitz, Germany<br>
 Vice Chair: **Thomas Stricker**, ETH-Zürich, Switzerland<br>

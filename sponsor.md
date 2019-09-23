@@ -12,7 +12,7 @@ permalink: /sponsors/
 [IEEE Computer Society](https://www.computer.org/) and the [Technical Committee on Scalable Computing (TCSC)](http://www.ieeetcsc.org/)
 
 <p class="sponsors">
-<img height="54" src="/img/ieee.png" />
-<img height="54" src="/img/cs_logo.jpg" />
-<img height="54" src="/img/tcsc.jpg" />
+<img height="54" src="{{ site.baseurl }}/img/ieee.png" />
+<img height="54" src="{{ site.baseurl }}/img/cs_logo.jpg" />
+<img height="54" src="{{ site.baseurl }}/img/tcsc.jpg" />
 </p>
